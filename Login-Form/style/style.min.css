@@ -1,0 +1,1 @@
+.correct{border:1px solid #00f800}.error{border:1px solid red}.corectIcon,.errorIcon{float:right;z-index:1;position:relative;top:27px;right:8px}.corectIcon{color:#0f0}.errorIcon{color:red}.show{display:inline}.hide{display:none}

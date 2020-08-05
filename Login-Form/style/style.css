@@ -1,0 +1,32 @@
+.correct {
+    border: 1px solid rgb(0, 248, 0);
+}
+
+.error {
+    border: 1px solid rgb(255, 0, 0);
+}
+
+.corectIcon,
+.errorIcon {
+    float: right;
+    z-index: 1;
+    position: relative;
+    top: 27px;
+    right: 8px;
+}
+
+.corectIcon {
+    color: rgb(0, 255, 0);
+}
+
+.errorIcon {
+    color: rgb(255, 0, 0);
+}
+
+.show {
+    display: inline;
+}
+
+.hide {
+    display: none;
+}
